@@ -70,10 +70,10 @@ footer {
     font-weight: 900;
     color: #da0463;
     text-shadow: 0.188rem 0 #dbedf3;
-    border-radius: 15px;
+    border-radius: 0.938rem;
     display: inline-block;
-    width: 150px;
-    height: 150px;
+    width: 9.375rem;
+    height: 9.375rem;
     text-align: center;
     margin: 0.625rem;
     background-color: #ffffff;
